@@ -3,8 +3,8 @@
 URL_RUN="http://serv01.runfalcon.com:8083/techandsolve/run"
 URL_STATUS="http://serv01.runfalcon.com:8083/techandsolve/status"
 
-TOKEN="4579071c-0d1f-417a-9c3c-671892cf6776"
-SCENARIO_CODE="FindMovie"
+TOKEN="$1"
+SCENARIO_CODE="$2"
 
 STATUS_SCHEDULED="SCHEDULED"
 STATUS_RUNNING="RUNNING"
