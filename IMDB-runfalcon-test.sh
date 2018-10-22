@@ -1,4 +1,4 @@
-#!/bin/bash +x
+#!/bin/sh +x
 
 URL_RUN="http://serv01.runfalcon.com:8083/techandsolve/run"
 URL_STATUS="http://serv01.runfalcon.com:8083/techandsolve/status"
